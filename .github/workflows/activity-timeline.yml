@@ -17,8 +17,14 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           username: "akashverma0786" # Insert your username here
           max_items: "5"
-          event_templates: > # Customize what to display here
-            { /* see "Configuration" below */ }
+          event_templates: >
+          {
+            "push": "{{index}}. 🚀 {{actor}} pushed {{payload.commits.length}} commits to {{repo}}",
+            "pr_opened": "{{index}}. 🆕 Opened PR in {{repo}}: {{payload.pull_request.title}}",
+            "pr_merged": "{{index}}. 🎯 Merged PR in {{repo}}",
+            "issues_opened": "{{index}}. 🐛 Opened issue in {{repo}}: {{payload.issue.title}}",
+            "issue_commented": "{{index}}. 💬 Commented on issue in {{repo}}"
+          }
 
       - name: Commit & Push
         run: |
