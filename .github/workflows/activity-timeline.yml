@@ -16,10 +16,10 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           username: "akashverma0786"
-          max_items: "5"
+          max_items: "10"
           event_templates: >
             {
-              "push": "{{index}}. 🚀 {{actor}} pushed {{payload.commits ? payload.commits.length : 0}} commits to {{repo}}",
+              "push": "{{index}}. 🚀 {{actor}} pushed code to {{repo}}",
               "pr_opened": "{{index}}. 🆕 Opened PR in {{repo}}: {{payload.pull_request.title}}",
               "pr_merged": "{{index}}. 🎯 Merged PR in {{repo}}",
               "issues_opened": "{{index}}. 🐛 Opened issue in {{repo}}: {{payload.issue.title}}",
