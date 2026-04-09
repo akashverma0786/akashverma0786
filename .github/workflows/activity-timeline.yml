@@ -9,7 +9,7 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Fetch & Render Activity
         uses: FreddyMSchubert/github-activity-timeline@main
@@ -19,7 +19,7 @@ jobs:
           max_items: "5"
           event_templates: >
             {
-              "push": "{{index}}. 🚀 {{actor}} pushed {{payload.commits.length}} commits to {{repo}}",
+              "push": "{{index}}. 🚀 {{actor}} pushed {{payload.commits ? payload.commits.length : 0}} commits to {{repo}}",
               "pr_opened": "{{index}}. 🆕 Opened PR in {{repo}}: {{payload.pull_request.title}}",
               "pr_merged": "{{index}}. 🎯 Merged PR in {{repo}}",
               "issues_opened": "{{index}}. 🐛 Opened issue in {{repo}}: {{payload.issue.title}}",
