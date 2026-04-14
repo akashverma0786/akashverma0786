@@ -36,14 +36,14 @@
 
 <!-- ACTIVITY:START -->
 1. 🎯 Merged PR in open-metadata/docs-om
-2. 🎯 Merged PR in open-metadata/docs-collate
-3. 🆕 Opened PR in open-metadata/docs-collate: undefined
-4. 🆕 Opened PR in open-metadata/docs-om: undefined
+2. 🆕 Opened PR in open-metadata/docs-om: undefined
+3. 🚀 akashverma0786 pushed code to open-metadata/OpenMetadata
+4. 🎯 Merged PR in open-metadata/OpenMetadata
 5. 🚀 akashverma0786 pushed code to open-metadata/OpenMetadata
-6. 🎯 Merged PR in open-metadata/OpenMetadata
-7. 🚀 akashverma0786 pushed code to open-metadata/OpenMetadata
-8. 🆕 Opened PR in open-metadata/OpenMetadata: undefined
-9. 🆕 Opened PR in open-metadata/OpenMetadata: undefined
+6. 🆕 Opened PR in open-metadata/OpenMetadata: undefined
+7. 🆕 Opened PR in open-metadata/OpenMetadata: undefined
+8. 🚀 akashverma0786 pushed code to akashverma0786/akashverma0786
+9. 🚀 akashverma0786 pushed code to akashverma0786/akashverma0786
 10. 🚀 akashverma0786 pushed code to akashverma0786/akashverma0786
 <!-- ACTIVITY:END -->
 
