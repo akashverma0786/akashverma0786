@@ -37,14 +37,14 @@
 <!-- ACTIVITY:START -->
 1. 🚀 akashverma0786 pushed code to open-metadata/OpenMetadata
 2. 🚀 akashverma0786 pushed code to open-metadata/OpenMetadata
-3. 🎯 Merged PR in open-metadata/docs-om
-4. 🆕 Opened PR in open-metadata/docs-om: undefined
-5. 🚀 akashverma0786 pushed code to open-metadata/OpenMetadata
-6. 🎯 Merged PR in open-metadata/OpenMetadata
-7. 🚀 akashverma0786 pushed code to open-metadata/OpenMetadata
-8. 🆕 Opened PR in open-metadata/OpenMetadata: undefined
+3. 🚀 akashverma0786 pushed code to open-metadata/OpenMetadata
+4. 🎯 Merged PR in open-metadata/docs-om
+5. 🆕 Opened PR in open-metadata/docs-om: undefined
+6. 🚀 akashverma0786 pushed code to open-metadata/OpenMetadata
+7. 🎯 Merged PR in open-metadata/OpenMetadata
+8. 🚀 akashverma0786 pushed code to open-metadata/OpenMetadata
 9. 🆕 Opened PR in open-metadata/OpenMetadata: undefined
-10. 🚀 akashverma0786 pushed code to akashverma0786/akashverma0786
+10. 🆕 Opened PR in open-metadata/OpenMetadata: undefined
 <!-- ACTIVITY:END -->
 
 
