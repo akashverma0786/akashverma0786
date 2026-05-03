@@ -35,8 +35,8 @@
 ---
 
 <!-- ACTIVITY:START -->
-1. 🆕 Opened PR in open-metadata/docs-om: undefined
-2. 🚀 akashverma0786 pushed code to pmbrull/OpenMetadata
+1. 🚀 akashverma0786 pushed code to pmbrull/OpenMetadata
+2. 🆕 Opened PR in open-metadata/docs-om: undefined
 3. 🚀 akashverma0786 pushed code to pmbrull/OpenMetadata
 4. 🚀 akashverma0786 pushed code to pmbrull/OpenMetadata
 5. 🚀 akashverma0786 pushed code to pmbrull/OpenMetadata
