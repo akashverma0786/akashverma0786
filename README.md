@@ -42,7 +42,7 @@
 5. 🚀 akashverma0786 pushed code to pmbrull/OpenMetadata
 6. 🚀 akashverma0786 pushed code to pmbrull/OpenMetadata
 7. 🚀 akashverma0786 pushed code to pmbrull/OpenMetadata
-8. 🆕 Opened PR in open-metadata/docs-om: undefined
+8. 🚀 akashverma0786 pushed code to pmbrull/OpenMetadata
 9. 🚀 akashverma0786 pushed code to pmbrull/OpenMetadata
 10. 🚀 akashverma0786 pushed code to pmbrull/OpenMetadata
 <!-- ACTIVITY:END -->
