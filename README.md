@@ -44,7 +44,7 @@
 7. 🚀 akashverma0786 pushed code to open-metadata/OpenMetadata
 8. 🚀 akashverma0786 pushed code to open-metadata/OpenMetadata
 9. 🚀 akashverma0786 pushed code to open-metadata/OpenMetadata
-10. 🆕 Opened PR in open-metadata/OpenMetadata: undefined
+10. 🚀 akashverma0786 pushed code to open-metadata/OpenMetadata
 <!-- ACTIVITY:END -->
 
 
