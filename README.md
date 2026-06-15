@@ -35,15 +35,15 @@
 ---
 
 <!-- ACTIVITY:START -->
-1. 🎯 Merged PR in open-metadata/docs-om
-2. 🆕 Opened PR in open-metadata/OpenMetadata: undefined
-3. 🚀 akashverma0786 pushed code to open-metadata/OpenMetadata
-4. 🎯 Merged PR in open-metadata/OpenMetadata
-5. 🚀 akashverma0786 pushed code to open-metadata/OpenMetadata
+1. 🚀 akashverma0786 pushed code to open-metadata/OpenMetadata
+2. 🎯 Merged PR in open-metadata/docs-om
+3. 🆕 Opened PR in open-metadata/OpenMetadata: undefined
+4. 🚀 akashverma0786 pushed code to open-metadata/OpenMetadata
+5. 🎯 Merged PR in open-metadata/OpenMetadata
 6. 🚀 akashverma0786 pushed code to open-metadata/OpenMetadata
-7. 🆕 Opened PR in open-metadata/OpenMetadata: undefined
-8. 🎯 Merged PR in open-metadata/OpenMetadata
-9. 🚀 akashverma0786 pushed code to open-metadata/OpenMetadata
+7. 🚀 akashverma0786 pushed code to open-metadata/OpenMetadata
+8. 🆕 Opened PR in open-metadata/OpenMetadata: undefined
+9. 🎯 Merged PR in open-metadata/OpenMetadata
 10. 🚀 akashverma0786 pushed code to open-metadata/OpenMetadata
 <!-- ACTIVITY:END -->
 
