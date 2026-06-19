@@ -32,4 +32,3 @@ jobs:
           message: 'Update GitHub streak stats'
           add: 'dist/streak-stats.svg'
           push: true
-          pull: '--rebase'
