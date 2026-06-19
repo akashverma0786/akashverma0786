@@ -40,11 +40,11 @@
 3. 🚀 akashverma0786 pushed code to open-metadata/OpenMetadata
 4. 🚀 akashverma0786 pushed code to open-metadata/OpenMetadata
 5. 🚀 akashverma0786 pushed code to open-metadata/OpenMetadata
-6. 🐛 Opened issue in open-metadata/OpenMetadata: Sapbw4Hana Connector
-7. 🚀 akashverma0786 pushed code to open-metadata/OpenMetadata
+6. 🚀 akashverma0786 pushed code to open-metadata/OpenMetadata
+7. 🐛 Opened issue in open-metadata/OpenMetadata: Sapbw4Hana Connector
 8. 🚀 akashverma0786 pushed code to open-metadata/OpenMetadata
 9. 🚀 akashverma0786 pushed code to open-metadata/OpenMetadata
-10. 🎯 Merged PR in open-metadata/docs-om
+10. 🚀 akashverma0786 pushed code to open-metadata/OpenMetadata
 <!-- ACTIVITY:END -->
 
 
