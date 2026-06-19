@@ -5,6 +5,10 @@ on:
     - cron: "0 */6 * * *" # Runs every 6 hours
   workflow_dispatch: # Allow manual triggering
 
+concurrency:
+  group: push-to-main
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
