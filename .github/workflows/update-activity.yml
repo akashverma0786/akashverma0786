@@ -18,6 +18,7 @@ jobs:
           fetch-depth: 0
 
       - name: Update README with recent activity
+        continue-on-error: true
         uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -25,3 +26,10 @@ jobs:
           COMMIT_MSG: "Update README with recent activity"
           MAX_LINES: 10
           TARGET_FILE: "README.md"
+
+      - name: Commit and push if changed
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Update README with recent activity"
+          add: "README.md"
+          push: true

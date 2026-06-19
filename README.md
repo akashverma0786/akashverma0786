@@ -118,13 +118,13 @@
 
 ---
 
-## 🐍 My GitHub Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg">
-  <img src="dist/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake animation">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akashverma0786/akashverma0786/main/dist/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akashverma0786/akashverma0786/main/dist/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/akashverma0786/akashverma0786/main/dist/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 ---
 
