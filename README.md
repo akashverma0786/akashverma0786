@@ -115,15 +115,15 @@
 
 <!--START_SECTION:activity-->
 1. ℹ️ Labeled PR [#27607](https://github.com/open-metadata/OpenMetadata/pull/27607) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 🎉 Merged PR [#30238](https://github.com/open-metadata/OpenMetadata/pull/30238) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 🔒 Closed issue [#30438](https://github.com/open-metadata/OpenMetadata/issues/30438) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. ℹ️ Labeled PR [#27607](https://github.com/open-metadata/OpenMetadata/pull/27607) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. ℹ️ Labeled PR [#27607](https://github.com/open-metadata/OpenMetadata/pull/27607) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. ℹ️ Labeled PR [#27607](https://github.com/open-metadata/OpenMetadata/pull/27607) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. ℹ️ Labeled PR [#27607](https://github.com/open-metadata/OpenMetadata/pull/27607) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. 🎉 Merged PR [#30238](https://github.com/open-metadata/OpenMetadata/pull/30238) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. 🔒 Closed issue [#30438](https://github.com/open-metadata/OpenMetadata/issues/30438) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 6. ℹ️ Labeled PR [#27607](https://github.com/open-metadata/OpenMetadata/pull/27607) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 7. ℹ️ Labeled PR [#27607](https://github.com/open-metadata/OpenMetadata/pull/27607) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 8. ℹ️ Labeled PR [#27607](https://github.com/open-metadata/OpenMetadata/pull/27607) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 9. ℹ️ Labeled PR [#27607](https://github.com/open-metadata/OpenMetadata/pull/27607) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. 🔒 Closed issue [#30466](https://github.com/open-metadata/OpenMetadata/issues/30466) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. ℹ️ Labeled PR [#27607](https://github.com/open-metadata/OpenMetadata/pull/27607) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 ---
