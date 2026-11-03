@@ -114,16 +114,16 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#36001](https://github.com/open-metadata/OpenMetadata/issues/36001) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. ℹ️ Labeled PR [#36846](https://github.com/open-metadata/OpenMetadata/pull/36846) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 💪 Opened PR [#36846](https://github.com/open-metadata/OpenMetadata/pull/36846) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. ℹ️ Labeled PR [#36845](https://github.com/open-metadata/OpenMetadata/pull/36845) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 💪 Opened PR [#36845](https://github.com/open-metadata/OpenMetadata/pull/36845) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. ℹ️ Labeled PR [#36844](https://github.com/open-metadata/OpenMetadata/pull/36844) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. 💪 Opened PR [#36844](https://github.com/open-metadata/OpenMetadata/pull/36844) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. ❗ Opened issue [#36841](https://github.com/open-metadata/OpenMetadata/issues/36841) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. ❗ Opened issue [#36842](https://github.com/open-metadata/OpenMetadata/issues/36842) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. ❗ Opened issue [#36840](https://github.com/open-metadata/OpenMetadata/issues/36840) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. ❌ Closed PR [#36846](https://github.com/open-metadata/OpenMetadata/pull/36846) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. ❌ Closed PR [#36845](https://github.com/open-metadata/OpenMetadata/pull/36845) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. 🗣 Commented on [#36846](https://github.com/open-metadata/OpenMetadata/pull/36846#issuecomment-6595911887) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. 🗣 Commented on [#36845](https://github.com/open-metadata/OpenMetadata/pull/36845#issuecomment-6595911323) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. ℹ️ Labeled PR [#36884](https://github.com/open-metadata/OpenMetadata/pull/36884) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. ℹ️ Labeled PR [#36883](https://github.com/open-metadata/OpenMetadata/pull/36883) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 💪 Opened PR [#36884](https://github.com/open-metadata/OpenMetadata/pull/36884) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. 💪 Opened PR [#36883](https://github.com/open-metadata/OpenMetadata/pull/36883) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. 🔒 Closed issue [#36001](https://github.com/open-metadata/OpenMetadata/issues/36001) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. ℹ️ Labeled PR [#36846](https://github.com/open-metadata/OpenMetadata/pull/36846) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 ---
