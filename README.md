@@ -114,16 +114,16 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#38303](https://github.com/open-metadata/OpenMetadata/issues/38303) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 🔒 Closed issue [#37091](https://github.com/open-metadata/OpenMetadata/issues/37091) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 🔒 Closed issue [#38288](https://github.com/open-metadata/OpenMetadata/issues/38288) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. 🔒 Closed issue [#36788](https://github.com/open-metadata/OpenMetadata/issues/36788) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 🔒 Closed issue [#37023](https://github.com/open-metadata/OpenMetadata/issues/37023) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 🔒 Closed issue [#38494](https://github.com/open-metadata/OpenMetadata/issues/38494) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. 🎉 Merged PR [#38495](https://github.com/open-metadata/OpenMetadata/pull/38495) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. 🔒 Closed issue [#37336](https://github.com/open-metadata/OpenMetadata/issues/37336) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. 🔒 Closed issue [#37092](https://github.com/open-metadata/OpenMetadata/issues/37092) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. ℹ️ Labeled PR [#38495](https://github.com/open-metadata/OpenMetadata/pull/38495) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 🔒 Closed issue [#37541](https://github.com/open-metadata/OpenMetadata/issues/37541) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. ℹ️ Labeled PR [#37990](https://github.com/open-metadata/OpenMetadata/pull/37990) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. ℹ️ Labeled PR [#38607](https://github.com/open-metadata/OpenMetadata/pull/38607) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. 🔒 Closed issue [#38303](https://github.com/open-metadata/OpenMetadata/issues/38303) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. 🔒 Closed issue [#37091](https://github.com/open-metadata/OpenMetadata/issues/37091) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. 🔒 Closed issue [#38288](https://github.com/open-metadata/OpenMetadata/issues/38288) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 🔒 Closed issue [#36788](https://github.com/open-metadata/OpenMetadata/issues/36788) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. 🔒 Closed issue [#37023](https://github.com/open-metadata/OpenMetadata/issues/37023) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. 🔒 Closed issue [#38494](https://github.com/open-metadata/OpenMetadata/issues/38494) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. 🎉 Merged PR [#38495](https://github.com/open-metadata/OpenMetadata/pull/38495) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 ---
